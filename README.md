@@ -11,5 +11,8 @@ The ESP32 Wrover S3 microcontroller, the brain of ASTRA, controls all of these f
 
 By providing detailed data of underwater environments that are difficult for humans to reach, ASTRA advances earth science and underwater ROV technology, ultimately furthering conservation efforts and scientific research. 
 
-![image](https://github.com/user-attachments/assets/0e319652-bb97-473a-8588-ad9f065d94bd)
-![image](https://github.com/user-attachments/assets/bb517866-33f3-47fe-bef7-127bc25c87e2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e319652-bb97-473a-8588-ad9f065d94bd" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bb517866-33f3-47fe-bef7-127bc25c87e2" width="45%" />
+</p>
+
