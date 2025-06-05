@@ -10,3 +10,6 @@ Throughout the sinking and rising, ASTRA takes in data from its Blue Robotics Ba
 The ESP32 Wrover S3 microcontroller, the brain of ASTRA, controls all of these functions. Our code stored in the ESP32 manages the motor and button tasks, while also processing data from the sensors. For effective communication, ASTRA utilizes an ESP32 access point to transmit the collected numbers in a readable format. Measurements are initially saved to an onboard SD card and then accessed through a webpage via an ESP32 access point, eliminating the need for WiFi and enabling real-time monitoring and remote access to environmental metrics.
 
 By providing detailed data of underwater environments that are difficult for humans to reach, ASTRA advances earth science and underwater ROV technology, ultimately furthering conservation efforts and scientific research. 
+
+![image](https://github.com/user-attachments/assets/0e319652-bb97-473a-8588-ad9f065d94bd)
+![image](https://github.com/user-attachments/assets/bb517866-33f3-47fe-bef7-127bc25c87e2)
